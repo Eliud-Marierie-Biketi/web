@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"main.dart.js": "a461e6015f5676a4a624126344404df5",
+const RESOURCES = {"main.dart.js": "09dd6964bb3d77a575c5adf679d821e2",
 "index.html": "ec3361b55d74a1228f2a535d38e20981",
 "/": "ec3361b55d74a1228f2a535d38e20981",
 "version.json": "ff5c738733e514a9c933302572c70a47",
@@ -55,7 +55,7 @@ const RESOURCES = {"main.dart.js": "a461e6015f5676a4a624126344404df5",
 "assets/assets/cow.png": "1ab1e76cebf393192f6d6b915a5d41a6",
 "assets/assets/milk_sales.jpeg": "cbda8bd1bb173f348426af37ea0ddd2a",
 "assets/FontManifest.json": "4fb15aa4f8d54928480644fdce53de45",
-"flutter_bootstrap.js": "7a5c972ec16c323ee4890809d5412099",
+"flutter_bootstrap.js": "aa26fff747b91e66f51ebdd9ff05ea21",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
